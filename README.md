@@ -70,7 +70,7 @@ python3 'folder-name' gui_returns.py
 	
 
 ## Credits
-1. Harsh Srivastava (https://github.com/harshsrivastava0): Taking in the raw canbus data of the motor controller and converting it into readable form. 
+1. Harsh Srivastava (https://github.com/harshsrivastava0): Taking in the raw canbus data of the motor controller and converting it into readable form, merging all codes to prepare a final DAQ.
 2. Satwik Jain (https://github.com/satwikjain23): Handling the gigantic task of receiving data from BMS, and converting it from raw CANBUS data into useable form.
 3. Ayan Mahajan (https://github.com/ayanhmm): Handling the entire UI aspect ranging from displaying data on screen after receiving it from arduino, managing the pit screen and performing data logging as well.
 4. Raman Saini (https://github.com/Raman-Saini9): Handling the wiring and making sure each component receives appropriate power. Also extracting data from MFR.
